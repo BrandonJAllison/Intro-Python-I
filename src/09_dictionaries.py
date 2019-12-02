@@ -19,12 +19,12 @@ waypoints = [
     {
         "lat": 43,
         "lon": -121,
-        "name": "a place"
+        "name": "fist place"
     }, 
     {
         "lat": 41,
         "lon": -123,
-        "name": "another place"
+        "name": "second place"
     }, 
     {
         "lat": 43,
