@@ -1,5 +1,7 @@
 # Intro to Python I
 
+This is my second go through of CS, so I am resubmitting my work.
+
 It's time to learn a new language! Python!
 
 Python is a popular, easy-to-use programming language that has significant
